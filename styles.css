@@ -1,10 +1,10 @@
-.hero {
-  background-color: cornflowerblue;
+button {
+  background-color: lightgreen;
+  transition: .3s ease all;
+}
 
-  width: 50%;
-  height: 50%;
-  padding: 10px;
-  border: 1px solid black;
-  margin: 10px;
-  text-align: right;
+button:hover {
+  background-color: skyblue;
+  transition: .3s ease all;
+  transform: translate(-5px);
 }

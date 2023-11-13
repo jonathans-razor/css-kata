@@ -1,0 +1,10 @@
+.hero {
+  background-color: cornflowerblue;
+
+  width: 50%;
+  height: 50%;
+  padding: 10px;
+  border: 1px solid black;
+  margin: 10px;
+  text-align: right;
+}
